@@ -1,0 +1,57 @@
+<table width="922" border="0">
+  <tr>
+    <td colspan="3" align="center"><span class="companyname">Benedicsons (Pvt) Ltd  </span></td>
+  </tr>
+  <tr>
+    <td height="21" colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="208" height="21" colspan="3"><span class="heading">TB Report From : 2016-04-01    To: 2016-12-15</span></td>
+  </tr>
+  <tr>
+    <td height="21">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  
+  
+  <tr>
+    <td height="199" colspan="3"><table width="904" height="81" border="1" cellspacing="0">
+		
+      	<tr>
+        <th width="70" height="23">Ledger</th>
+        <th width="400">Account Description</th>
+        <th width="100">Opening Debit</th>
+		<th width="100">Opening Credit</th>
+		<th width="100">Debit</th>
+        <th width="100">Credit</th>
+		<th width="100">Closing Debit</th>
+        <th width="100">Closing Credit</th>
+		
+        </tr><tr><td><a target="_blank" href="report_ledger_link.php?txtAccCode=220204&txtAccName=TR Loans - Seylan Bank PLC&repdatefrom=2016-04-01&repdateto=2016-12-15">220204</a></td>
+			<td><a target="_blank" href="report_ledger_link.php?txtAccCode=220204&txtAccName=TR Loans - Seylan Bank PLC&repdatefrom=2016-04-01&repdateto=2016-12-15">TR Loans - Seylan Bank PLC</a></td><td>&nbsp;</td><td align=right>19,839,000.00</td><td>&nbsp;</td><td align=right>25,033,000.00</td><td>&nbsp;</td><td align=right>44,872,000.00</td></tr><tr><td colspan=2>&nbsp;</td>
+		<td align=right><b>0.00</b></td>
+		<td align=right><b>19,839,000.00</b></td>
+		<td align=right><b>0.00</b></td>
+		<td align=right><b>25,033,000.00</b></td>
+		<td align=right><b>0.00</b></td>
+		<td align=right><b>44,872,000.00</b></td></tr></table>
+</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="2">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="2">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

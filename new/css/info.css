@@ -1,0 +1,16 @@
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+
+.rpad {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+ 
+/*Override Bootstrap Font Size*/
+.form-control, .control-label, .table {
+    font-size: 12px;
+}
